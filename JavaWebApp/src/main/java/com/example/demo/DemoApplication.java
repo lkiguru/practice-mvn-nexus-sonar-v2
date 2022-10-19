@@ -11,7 +11,7 @@ public class DemoApplication {
 
 		string name ="lorna"
 
-		system.out.println(name);
+		system.out.println(name); push 
 	}
 
 }
