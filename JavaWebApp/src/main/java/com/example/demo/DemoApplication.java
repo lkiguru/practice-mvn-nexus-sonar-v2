@@ -12,9 +12,6 @@ public class DemoApplication {
 		string name ="lorna"
 
 		system.out.println(name); push 
-
-		interger age ="20";
-		sytem.out. println(age + 5);
 	}
 
 }
